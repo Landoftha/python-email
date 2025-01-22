@@ -9,7 +9,7 @@ planilhaDados = pd.read_csv('data.csv')
 # Sender credentials and details
 email_sender = ''
 email_password = ''
-recrutadora = "Larissa Fiore"
+recrutadora = ""
 subject = 'Convite para Entrevista - Vaga de Vendedor, Auxiliar de Loja e Operador de Caixa'
 
 # Set up SSL context
